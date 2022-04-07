@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, Kittitat is here 👋
+
+- 🔭 I’m currently studying Computer Engineering at Chulalongkorn University.
+- 🌱 I’m interested in fullstack developer and Machine Learning.
+
 
 <!--
 **IamKittitat/IamKittitat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
